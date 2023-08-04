@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nimai-Halder/create-resume/static/css/main.c1cd1805.css",
+    "main.js": "/Nimai-Halder/create-resume/static/js/main.b450fad8.js",
+    "static/js/703.0b3997a0.chunk.js": "/Nimai-Halder/create-resume/static/js/703.0b3997a0.chunk.js",
+    "static/js/598.e594e5af.chunk.js": "/Nimai-Halder/create-resume/static/js/598.e594e5af.chunk.js",
+    "static/media/nodata.png": "/Nimai-Halder/create-resume/static/media/nodata.8beffd89ebb3ff80227c.png",
+    "static/media/Right.png": "/Nimai-Halder/create-resume/static/media/Right.e1b6e6fa66fd965a960e.png",
+    "index.html": "/Nimai-Halder/create-resume/index.html",
+    "main.c1cd1805.css.map": "/Nimai-Halder/create-resume/static/css/main.c1cd1805.css.map",
+    "main.b450fad8.js.map": "/Nimai-Halder/create-resume/static/js/main.b450fad8.js.map",
+    "703.0b3997a0.chunk.js.map": "/Nimai-Halder/create-resume/static/js/703.0b3997a0.chunk.js.map",
+    "598.e594e5af.chunk.js.map": "/Nimai-Halder/create-resume/static/js/598.e594e5af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1cd1805.css",
+    "static/js/main.b450fad8.js"
+  ]
+}
